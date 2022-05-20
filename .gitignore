@@ -1,0 +1,9 @@
+secrets.txt
+
+# indivisual files that are to be ignored are written
+# directly as a plain text as written above
+# names are case sensitive
+
+# but if we say *.txt, 
+# all the text files inside 
+# will be ignored
